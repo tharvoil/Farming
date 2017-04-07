@@ -1,0 +1,13 @@
+{
+    "id": "883e70e6-8649-40d3-9ebd-8c7d6ba72da1",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "883e70e6-8649-40d3-9ebd-8c7d6ba72da1",
+    "children": [
+        "bab596ba-cf83-4a41-8d73-079728f865b7"
+    ],
+    "filterType": "GMExtension",
+    "folderName": "extensions",
+    "isDefaultView": false,
+    "localisedFolderName": "ResourceTree_Extensions"
+}
