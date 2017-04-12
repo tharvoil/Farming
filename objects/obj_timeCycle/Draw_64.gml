@@ -3,7 +3,7 @@
 
 if alpha <= .35 draw_set_colour(c_blue);
 if alpha > .35 draw_set_colour(c_white);
-draw_sprite(spr_clock,0,200,200);
+draw_sprite(spr_clock,0,700,200);
 if global.dateCalendarOn    {
     draw_text(200, 200, string_hash_to_newline("Clock:  " + string(global.curClock)));
     draw_text(32, 32, string_hash_to_newline("Day:    " + string(global.curDay)));
