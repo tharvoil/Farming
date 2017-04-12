@@ -18,4 +18,5 @@ if (cropGrowth >= 100)
 	}
 	
 // Set sprites for crops based on stage.
-sprite_index = cropStage;
+
+image_index = cropStage;
