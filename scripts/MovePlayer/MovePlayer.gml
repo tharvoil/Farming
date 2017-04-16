@@ -3,13 +3,15 @@ rightkey = keyboard_check(vk_right);
 upkey = keyboard_check(vk_up);
 downkey = keyboard_check(vk_down);
 
-if( dir != DIR_STAND) {
-	dir = DIR_STAND;
-	sprite_index = sprites[dir];
-	image_index=0;
-	image_speed = 1.0;
-	dy = 0;
-	dx = 0;		
+if (!leftkey && !rightkey && !upkey && !downkey){
+
+		dir = DIR_STAND;
+		sprite_index = sprites[dir];
+		image_index=0;
+		image_speed = 1.0;
+		dy = 0;
+		dx = 0;
+
 }
 if (leftkey){
 	if( dir != DIR_LEFT) {
@@ -47,4 +49,5 @@ if(downkey){
 		dy = dy + player_speed;	
 	}
 }
+
 ProcessCollision(id, dx,dy, 16,16,16,2 );

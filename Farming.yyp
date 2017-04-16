@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "249c9a49-decd-4ddc-8a9b-8845cc62db4d",
+            "Value": {
+                "id": "d3f02cdf-f86d-4152-9670-d3b8543fefbf",
+                "resourcePath": "objects\\oGlobal\\oGlobal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "259d0fa5-d985-43cc-b12a-68d3b0769630",
             "Value": {
                 "id": "7c91e9f4-ba51-4766-8ce5-a9e8377b97d4",
@@ -291,6 +299,14 @@
             "Value": {
                 "id": "c09aae24-b1fe-47af-8f61-6f7e39b2cb65",
                 "resourcePath": "views\\441efc4b-822a-4068-86ad-a436450b92d2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4535f037-0605-44bf-8299-69b5bec3b680",
+            "Value": {
+                "id": "5b0e9d8d-d140-4f5d-b86a-f18dc53e7c77",
+                "resourcePath": "views\\4535f037-0605-44bf-8299-69b5bec3b680.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -588,6 +604,14 @@
                 "id": "1f668fd7-d98e-49ce-9b6d-5a12b6ca4ac5",
                 "resourcePath": "scripts\\fun_changeTime\\fun_changeTime.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8e64be0c-b8f8-4438-9ca2-191e2e3011c0",
+            "Value": {
+                "id": "1e0d6ba1-794a-47d3-b461-45530b53241e",
+                "resourcePath": "views\\8e64be0c-b8f8-4438-9ca2-191e2e3011c0.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

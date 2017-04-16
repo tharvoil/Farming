@@ -1,1 +1,1 @@
-MovePlayer();
+PlayerMove();
