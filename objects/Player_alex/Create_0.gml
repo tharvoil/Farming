@@ -10,5 +10,3 @@ dx = 0;
 dy = 0;
 
 silhouette_colour = $3F3FAF;
-
-//test2
