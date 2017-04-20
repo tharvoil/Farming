@@ -14,7 +14,8 @@
         "b8f04bce-23b7-47d3-95b0-c9c73f5b05a6",
         "735e2b30-7e4e-4b22-a6dc-0682e5da00eb",
         "d4805a97-f808-480c-8c86-25b4ec6d2023",
-        "cc354aba-3a86-4287-a06d-1c25a11c20d6"
+        "cc354aba-3a86-4287-a06d-1c25a11c20d6",
+        "6e03534b-29e2-48fa-a893-85c3d8ef4924"
     ],
     "layers": [
         {
@@ -180,6 +181,30 @@
                     "inheritCode": false,
                     "name_with_no_file_rename": "inst_4ED9161D",
                     "objId": "5e2d2008-34c8-41e4-b9ca-470ead93a70d",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                },
+                {
+                    "id": "6e03534b-29e2-48fa-a893-85c3d8ef4924",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_543CCE55",
+                    "x": 32,
+                    "y": 32,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_543CCE55",
+                    "objId": "28364796-87c4-41ab-95f3-3ae90efa9276",
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1
@@ -10388,7 +10413,7 @@
         "mvc": "1.0",
         "clearDisplayBuffer": true,
         "clearViewBackground": false,
-        "enableViews": false,
+        "enableViews": true,
         "inheritViewSettings": false
     },
     "views": [
@@ -10396,14 +10421,14 @@
             "id": "da64590d-5319-4c31-9b9e-7dec74fbe550",
             "modelName": "GMRView",
             "mvc": "1.0",
-            "hborder": 32,
+            "hborder": 100,
             "hport": 300,
             "hspeed": -1,
             "hview": 300,
             "inherit": false,
             "objId": "4b18f993-2cb2-4049-b16e-454340337949",
-            "vborder": 32,
-            "visible": false,
+            "vborder": 100,
+            "visible": true,
             "vspeed": -1,
             "wport": 400,
             "wview": 400,
