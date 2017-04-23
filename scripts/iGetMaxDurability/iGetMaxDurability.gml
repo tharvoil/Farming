@@ -1,0 +1,1 @@
+//Gets the Maximum durability for an item

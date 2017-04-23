@@ -13,8 +13,8 @@ if (showInv) {
 
 	for (i = 0; i< maxItems; i += 1;){
 		draw_sprite(spr_campFire,0,x1 + 24 + (i * 40), y2- 24);
-		if (global.inventory[i] != -1){
-			draw_sprite(spr_items,global.inventory[i], x1 + 24 + (i * 40), y2- 24);
+		if (ds_grid_get(global.invmap, i, 0)!= -1){
+			draw_sprite(spr_items,ds_grid_get(global.invmap, i, 0), x1 + 24 + (i * 40), y2- 24);
 		}
 	}
 

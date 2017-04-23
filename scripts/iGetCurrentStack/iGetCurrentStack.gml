@@ -1,0 +1,1 @@
+//Gets current amount of a given item in inventory

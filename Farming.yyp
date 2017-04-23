@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "082310c9-3725-4bff-b8d2-eaf06b6b2aa9",
+            "Value": {
+                "id": "fd5279b7-afdc-4792-8837-7eb269b02b0a",
+                "resourcePath": "scripts\\iGetDescription\\iGetDescription.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "09db2b9f-eed2-4b05-88a7-972478e377ff",
             "Value": {
                 "id": "e42652dd-ea7c-4074-a479-975f85350c4c",
@@ -219,6 +227,14 @@
             "Value": {
                 "id": "11f9ffb3-0e48-4aef-9cdd-232f0bb1e7fe",
                 "resourcePath": "views\\32170169-1a51-4410-b038-e2a05d76ecc1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "32b8ed78-6acf-45f1-bd18-e9c59cd34e8e",
+            "Value": {
+                "id": "be1f3cf3-5b05-419a-a47e-ee6ea253b62c",
+                "resourcePath": "views\\32b8ed78-6acf-45f1-bd18-e9c59cd34e8e.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -495,6 +511,14 @@
             }
         },
         {
+            "Key": "747251e5-fc99-4c17-af0f-e7580582e8bd",
+            "Value": {
+                "id": "7257c2b8-c118-4c8c-b933-1f28bdb515d8",
+                "resourcePath": "scripts\\iGetMaxDurability\\iGetMaxDurability.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "74b38a24-0d2e-4220-867e-f895135322b6",
             "Value": {
                 "id": "273f2af8-75cb-4f3d-9ce4-10becbaad798",
@@ -563,6 +587,14 @@
             "Value": {
                 "id": "846aef63-2284-4bfc-bf49-ee5dbdfb494c",
                 "resourcePath": "scripts\\fun_cycleCreateLists\\fun_cycleCreateLists.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7ec141c5-e002-41a8-9161-5b6ecdcc97e8",
+            "Value": {
+                "id": "f79dfb40-29f6-4b29-9c7c-99bcecc1a43e",
+                "resourcePath": "scripts\\iGetCurrentStack\\iGetCurrentStack.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -719,6 +751,14 @@
             }
         },
         {
+            "Key": "a18ae59d-f1a7-42ac-ae08-d7c54f511147",
+            "Value": {
+                "id": "4d5d508a-ed13-4bd0-867d-f79aa69ba5a2",
+                "resourcePath": "scripts\\scr_ItemConfig\\scr_ItemConfig.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a19d5050-7914-4941-ade0-5ad25a71ae04",
             "Value": {
                 "id": "fcaaf5b6-6f47-4435-a398-b853b9da74db",
@@ -863,6 +903,14 @@
             }
         },
         {
+            "Key": "bc39699a-5ac0-4d12-9066-de34d34be485",
+            "Value": {
+                "id": "1e4c4443-0289-434c-830d-304949cc9af9",
+                "resourcePath": "scripts\\InventorySetup\\InventorySetup.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c6d0bdc1-6477-46ba-9610-b8703ad9d51c",
             "Value": {
                 "id": "297de48b-ef16-4692-8e19-42b2596859e2",
@@ -940,6 +988,14 @@
                 "id": "bd097d16-3479-4ecb-a979-b72009342cac",
                 "resourcePath": "views\\da8824e1-b702-43fd-b44f-8bf63951bc1c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dcf51d5a-b166-429b-99cd-7077829fe72c",
+            "Value": {
+                "id": "259d1cf9-ca05-4a7e-b5ea-34c10d9558da",
+                "resourcePath": "scripts\\iGetMaxInStack\\iGetMaxInStack.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1084,8 +1140,14 @@
         "4e769bd8-ac54-4596-ab60-86a4caa5ffdb",
         "7246adf8-3a7e-405b-a8cf-084d4158d72f",
         "a4b16a0a-f117-4de5-af99-f4f0859cf71f",
+        "b839c918-47dd-45fe-9151-a4f8197602f7",
         "f7c2da3b-f00c-4583-9ea4-dcb7cf71193e",
-        "b839c918-47dd-45fe-9151-a4f8197602f7"
+        "dcf51d5a-b166-429b-99cd-7077829fe72c",
+        "7ec141c5-e002-41a8-9161-5b6ecdcc97e8",
+        "747251e5-fc99-4c17-af0f-e7580582e8bd",
+        "082310c9-3725-4bff-b8d2-eaf06b6b2aa9",
+        "bc39699a-5ac0-4d12-9066-de34d34be485",
+        "a18ae59d-f1a7-42ac-ae08-d7c54f511147"
     ],
     "tutorial": ""
 }
