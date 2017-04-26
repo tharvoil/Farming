@@ -1,0 +1,62 @@
+Converting GML script : ${project_dir}\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 42 : nested function calls are not allowed
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 44 : nested function calls are not allowed
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 46 : unexpected syntax error
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 50 : nested function calls are not allowed
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 52 : nested function calls are not allowed
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 54 : nested function calls are not allowed
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 56 : nested function calls are not allowed
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 58 : nested function calls are not allowed
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 60 : nested function calls are not allowed
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 62 : unexpected syntax error
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 66 : nested function calls are not allowed
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 68 : nested function calls are not allowed
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 70 : nested function calls are not allowed
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 74 : nested function calls are not allowed
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 76 : unexpected syntax error
+ERROR : C:\Users\andyk\Documents\GameMakerStudio2\Farming\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml : 87 : unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml
+
+Converting GML script : ${project_dir}\scripts\htme_serverEventPlayerDisconnected\htme_serverEventPlayerDisconnected.gml
+Converted string : line 67 : "'s disconnection!" -> "\'s disconnection!"
+
+Converting GML script : ${project_dir}\scripts\htme_forceSyncLocalInstances\htme_forceSyncLocalInstances.gml
+Converted string : line 27 : "'s instances." -> "\'s instances."
+
+Converting GML script : ${project_dir}\scripts\htme_recieveVarGroup\htme_recieveVarGroup.gml
+Converted string : line 38 : "Recieved vargroup but we are not continuing: We don't have a playerhash yet." -> "Recieved vargroup but we are not continuing: We don\'t have a playerhash yet."
+
+Converting GML script : ${project_dir}\scripts\htme_syncSingleVarGroup\htme_syncSingleVarGroup.gml
+Converted string : line 28 : "Tried to send vargroup but we are not continuing: We don't have a playerhash yet." -> "Tried to send vargroup but we are not continuing: We don\'t have a playerhash yet."
+
+Converting GML script : ${project_dir}\scripts\htme_debugoverlay\htme_debugoverlay.gml
+Converted builtin : line 29 : view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin : line 30 : view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin : line 31 : view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin : line 32 : view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin : line 30 : view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin : line 32 : view_hview -> __view_get( e__VW.HView, 0 )
+Converted string : line 46 : "Warning! 
+You are using the default gamename string! 
+If you are testing the demo project or simply play arround with the engine, ignore this.
+Otherwise, when making your game, you need to change 'self.gamename' in 'htme_init'.
+This string is used to identify your game. It is meant to make sure different
+games can't connect to each other. If incompatible games would try to connect
+to each other that would result in data corruption and crashes.
+Also change this string when releasing a new version of your game, that is incompatible
+with old versions of your game." -> "Warning! 
+You are using the default gamename string! 
+If you are testing the demo project or simply play arround with the engine, ignore this.
+Otherwise, when making your game, you need to change \'self.gamename\' in \'htme_init\'.
+This string is used to identify your game. It is meant to make sure different
+games can\'t connect to each other. If incompatible games would try to connect
+to each other that would result in data corruption and crashes.
+Also change this string when releasing a new version of your game, that is incompatible
+with old versions of your game."
+
+Converting GML script : ${project_dir}\scripts\htme_recieveSignedPackets\htme_recieveSignedPackets.gml
+Converted string : line 174 : "SP: We wanted that packet. Too bad it's gone." -> "SP: We wanted that packet. Too bad it\'s gone."
+
+added compatibility script view/__view_get.gml
+added compatibility script view/__init_view.gml
+updated compatibility script __global_object_depths.gml

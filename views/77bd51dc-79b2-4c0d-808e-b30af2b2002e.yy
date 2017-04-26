@@ -1,0 +1,32 @@
+{
+    "id": "77bd51dc-79b2-4c0d-808e-b30af2b2002e",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "77bd51dc-79b2-4c0d-808e-b30af2b2002e",
+    "children": [
+        "46624cf6-c56e-4142-bf8f-7a9885e5b3e9",
+        "8fa3431a-33e5-4fde-8510-4c401e948c35",
+        "442d45c7-8d21-4669-909f-a1cfae268ce5",
+        "9cf275dc-02f0-4ce9-ae85-09035ccafbd2",
+        "b1cba8f0-fd3b-4bdf-967b-527b70664321",
+        "0cbd7dda-b9fc-4f09-b100-202f902abc0e",
+        "15ac35e9-c6a9-4c78-9fe8-542fe92ccfb0",
+        "7f9a5a71-f404-4b70-886e-ca3cc54a4950",
+        "68fe32fc-025c-46c2-8f47-b823a10677d2",
+        "50be449c-debe-4403-8821-dfc096bfeb07",
+        "de18ce1f-7a60-401d-8413-7afabd3b6358",
+        "390b5c1e-d8f4-4280-b9b9-aaca71b24264",
+        "204fef76-729d-4a94-b568-598b7c3c14a6",
+        "7b3d9e7d-43f9-4c3f-ab52-38d2afe9121a",
+        "1592e66b-c750-4004-9d44-1d3090d69221",
+        "7f93cbcf-ea88-4889-bed6-8c7ce1177dcc",
+        "41bf5fb5-d76b-47aa-93d9-bc07291ebe84",
+        "5ae592ba-cb52-4c01-bfe9-b2f4b1bc1d96",
+        "9a645919-8cca-44c4-8c37-950f682e7324",
+        "53f6feaa-8723-4022-8eb6-dbadf2de8b8c"
+    ],
+    "filterType": "GMScript",
+    "folderName": "tools",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

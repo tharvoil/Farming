@@ -12,7 +12,7 @@ ds_grid_set(global.itemmap,0,4,-1); //Max durability, -1 for no durability
 
 ds_grid_set(global.itemmap,1,0,1); //ID
 ds_grid_set(global.itemmap,1,1,"Hoe"); //Name
-ds_grid_set(global.itemmap,1,2,"A basic hoe used to"); //Description
+ds_grid_set(global.itemmap,1,2,"A basic hoe used to till the ground"); //Description
 ds_grid_set(global.itemmap,1,3,1); //Stack Limit
 ds_grid_set(global.itemmap,1,4,-1); //Durability
 

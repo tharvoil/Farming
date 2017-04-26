@@ -1,0 +1,1 @@
+draw_text(20,20,"Press N for new server and B to connect.");

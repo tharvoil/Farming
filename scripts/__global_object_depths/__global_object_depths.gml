@@ -4,20 +4,14 @@
 gml_pragma( "global", "__global_object_depths()");
 
 // insert the generated arrays here
-global.__objectDepths[0] = 0; // obj_fireTest_dead
-global.__objectDepths[1] = 0; // obj_fireTest
-global.__objectDepths[2] = 0; // obj_load
-global.__objectDepths[3] = 0; // obj_lightTest
-global.__objectDepths[4] = -10000; // obj_timeCycle
-global.__objectDepths[5] = 0; // obj_save
+global.__objectDepths[0] = 0; // obj_fireTest_deadglobal.__objectDepths[1] = 0; // obj_fireTestglobal.__objectDepths[2] = 0; // obj_loadglobal.__objectDepths[3] = 0; // obj_lightTestglobal.__objectDepths[4] = -10000; // obj_timeCycleglobal.__objectDepths[5] = 0; // obj_save
+
+global.__objectNames[0] = "obj_fireTest_dead";global.__objectNames[1] = "obj_fireTest";global.__objectNames[2] = "obj_load";global.__objectNames[3] = "obj_lightTest";global.__objectNames[4] = "obj_timeCycle";global.__objectNames[5] = "obj_save";
+
+global.__objectDepths[6] = -9999; // obj_htme
 
 
-global.__objectNames[0] = "obj_fireTest_dead";
-global.__objectNames[1] = "obj_fireTest";
-global.__objectNames[2] = "obj_load";
-global.__objectNames[3] = "obj_lightTest";
-global.__objectNames[4] = "obj_timeCycle";
-global.__objectNames[5] = "obj_save";
+global.__objectNames[6] = "obj_htme";
 
 
 // create another array that has the correct entries
